@@ -56,19 +56,17 @@
 | *5b* | Acts of **Faith** |
 
 >>>
-+ Theme of 1Thess: encouragment **FHL**
++ Theme of 1Thes: encouragment in **FHL**
 + 1st half: Thes' **rl** w/Paul + **response** to gospel
-+ ch3: crux of 1Thes: **report** from Tim's visit
+  + ch3: crux of 1Thes: **report** from Tim's visit
 + 2nd half: addr specific **questions** / issues
 + Ways might **respond** to such an encour. passage:
-+ (1) Paul **happy** with Thes: 
-  + yes, I love meeting w/**friends** / smgp
-  + check, **done**, nothing to learn
++ (1) Paul **happy** with Thes: yes, I love mtg
+  + w/**friends** / smgp: **done**, nothing to learn
 + (2) not **realistic**: ppl I deal with
-  + aren't as **receptive** as Thes
-+ (3) not **achievable**: 
-  + Paul was **holy**, I'm not: can't **relate**
-+ in ch2, Paul said they had
+  + not as **receptive** as Thes
++ (3) not **achievable**: Paul **holy**, I'm not: 
+  + can't **relate**. In ch2, Paul+Silas had
 
 ---
 We endeavored the more **eagerly** <br>
@@ -84,9 +82,9 @@ to see you **face** to face
 
 ---
 ## outline
-1. Purpose: to Strengthen Faith [v1-5]
-1. Product: Joy + Thanksgiving [v6-10]
-1. Prayer: for Love + Purity [v11-13]
+1. **Purpose**: to Strengthen Faith [(v1-5)](# "ref")
+1. **Product**: Joy + Thanksgiving [(v6-10)](# "ref")
+1. **Prayer**: for Love + Purity [(v11-13)](# "ref")
 
 >>>
 + **Purpose** of sending Tim
@@ -165,10 +163,11 @@ just as it has come to pass
 
 >>>
 + not as "I **told** you so", but 
-  + for mental **prep**: **stand** firm obey Chr
-+ 2. **Init** contact: didn't **wait** for Thes to **ask**
-  + pro-actively **sent** support / encour
-+ 3. Had auth to **coerce**, but didn't **exercise**:
+  + for mental **prep**: to **stand** firm in obey Chr
++ (2) **Initiate** contact: 
+  + didn't **wait** for Thes to **ask** for help
+  + but pro-actively **sent** support / encour
++ (3) Had auth to **coerce**, but didn't **exercise**:
   + **purpose** of sending Tim was
 
 ---
@@ -179,11 +178,11 @@ to **establish** and **exhort** you in your faith
 
 >>>
 + "Establish": **strengthen**, make firm
-  + **weak**: not more **discip**, work **ethic**
-  + but **equip**, supply, give strength
+  + when **weak**: need not more **discip**, work **ethic**
+  + but us to **equip**, supply, give strength
 + e.g., teaching **SS**: frustrated at **immaturity**
   + still **growing**: your **task** to teach, show
-+ "Exhort" (enc): as **hubby**/dad: bring **comfort**
++ "Exhort" (**enc**): as **hubby**/dad: bring **comfort**
 + How I **respond** to suffering/stress
   + affects how **they** react: whether **shaken** or not
 + Do I put on **brave** face, hide pain?
@@ -205,7 +204,8 @@ to **establish** and **exhort** you in your faith
 + **Anticipate** opposition as walk in Chr steps
 + **Initiate** support to help stand **firm**
 + Radiate **comfort**, not coercion
-  + **encourage**: call alongside, walk narrow path together
+  + **encourage**: call alongside, 
+  + walk togeth on **narrow** path leads to life
 + So see how **suffering** can **strengthen** our faith
 
 ---
@@ -214,7 +214,7 @@ to **establish** and **exhort** you in your faith
 >>>
 + Tim **visited** Thes to strengthen + encourage in faith
 + **Returned** to Paul in Athens
-+ **Reported** result / product from the visit:
++ Reported **result** / product from the visit:
 + What happens when accountability goes **right**: 
   + proclaimed
 
@@ -226,11 +226,13 @@ and reported that you always <br>
 [1 Thessalonians 3:6 (ESV)](# "ref")
 
 >>>
-+ **Gospel**: proclaim **good** + benef to hearer
-+ **Metric** of success: **trust** in God's promises
-  + and **love** for one another
-+ Did not **decrease** even in face of **suffering**
-+ A positive **memory** of us, long to **see** us
++ **Gospel**: objectively **good** + benef to hearer
++ **Metric** of success: **faith + love**:
+  + **trust** in God's promises, and
+  + **love** for one another
++ And didn't **decrease** even in face of **suffering**
++ Had positive **memory** of us, long to **see** us
++ So Paul's **reaction** to this good report is
 
 ---
 in all our **distress** and affliction <br>
@@ -244,9 +246,10 @@ if you are **standing** fast in the Lord.
 [1 Thessalonians 3:7-8 (ESV)](# "ref")
 
 >>>
-+ Amid **suffering** on behalf of gospel, **encour**: 
-  + **trust** God's prom + **love** one another
-+ Our life: **motivation**, defn of success
++ Amid **suffering** on behalf of gospel, 
+  + obtained this **encouragement**: 
+  + to know they are still **standing** in Lord
++ Our life, legacy, **motivation**, defn of success
 + Credit goes to **God**, not us:
 
 ---
@@ -276,10 +279,11 @@ and **supply** what is **lacking** in your faith?
 + Thes' **faith** remained steadfast
   + even though saw **trials** Paul endured
   + that **they** would soon also endure
-+ But still had **more** to learn
++ But still had **more** to learn: not a **failure**!
   + Means more **joy** for Paul+Silas
 + **Equip** + strengthen to face trials
   + **Encourage** in the faith
++ **Worth** our efforts, prayers, tears, perseverance
 
 ---
 <!-- .slide: data-background="white" -->
@@ -291,19 +295,21 @@ and **supply** what is **lacking** in your faith?
   + **Laughter** w/friends+fam!
   + perhaps **alone** time w/o demands
   + Not **bad** things: **blessings** from God
-+ Promise: abundant **joy**, immeas **thanks** to God,
-  + to truly **live**:
-+ to see others **stand** firm 
++ **Promise** from today's passage:
+  + Abundant **joy**, immeas **thanks** to God,
+  + can truly **live**, when
++ See others **stand** firm in Lord,
+  + **growing** more + more in faith,
   + **trusting** in God's promises
-+ Equip them to **grow** more + more in faith
+  + despite probing **attacks** of Satan
 
 ---
 ## outline
 
 >>>
-+ Having **rcvd** encour report,
++ Having **rcvd** encour report / good news,
 + What does **future** hold for them?
-+ **Prayer** for future of Thes
++ Last section: **prayer** for future of Thes
 
 ---
 Now may our God and Father himself, <br>
@@ -314,27 +320,36 @@ and our Lord Jesus, **direct our way** to you,
 >>>
 + We don't know where **paths** of life take us
   + But **God** directs them: makes **straight**
-+ Earnest **hope** to meet again
-  + and when we do, to see that
++ Earnest **hope** that we will meet again
+  + and when we do, we'll see that
 + HS has been **working** in hearts in this way:
 
 ---
-and may the Lord make you **increase and abound** <br>
+and may the Lord make you <br>
+**increase and abound** <br>
 in **love** for one another and for all, <br>
 as we do for you, 
 
 [1 Thessalonians 3:12 (ESV)](# "ref")
 
 >>>
-+ great in **quantity**, 
-  + and even **more**: exceed / overflow
++ great in **quantity**, and even **more**: 
+  + exceed / overflow: abound in **what**?
 + not how many Chr **books** read, free **meals** given
   + **hw** done, **house** bought, or **illness** healed
   + even **happy** / trouble-free life
-+ What we **pray** for is that they may abound in **love**:
-  + **Experience** God's love (what defs love)
-  + **Exercise** love to God with all their hearts, and
-  + **Exhibit** God's love to all around
++ What we **pray** for is 
+  + that they may abound in **love**:
+
+---
+1. **Experience** God's Love
+1. **Exercise** Love to God
+1. **Exhibit** God's Love Toward Others
+
+>>>
++ **Experience** God's love (defines love)
++ **Exercise** love to God with all their hearts,
++ **Exhibit** God's love to all around
 + And as God **fills** them with His love,
   + we have a future **hope**:
 
@@ -353,12 +368,12 @@ with all his saints.
   + HS **strengthens** us to live in holiness
 + Connect to **ch4**: purity + love
 + Always have **hope**: old **SS** far from God
-  + other **influences** beyond our control
-  + own **decisions**
-  + fear **son** may become same
+  + other **influences** beyond our control
+  + own **decisions**
+  + fear **son** may become same
 + But **hope** in God, not men: **pray** may
-  + abound in **love**, acc how God loves us
-  + strengthen **faith** in God's Word
+  + abound in **love**, acc how God loves us
+  + strengthen **faith** in God's Word
 
 ---
 <!-- .slide: data-background="white" -->
@@ -368,7 +383,7 @@ with all his saints.
 >>>
 + those who I'm **responsib** for, **watching** my faith
 + Perhaps don't pray very **often**, or mostly for **myself**
-  + don't feel **strong** / holy enough to take care of others
+  + not **strong** / holy enough to take care of others
 + or only **perfunctory**, rote
   + or all but **given up** that God can **change** them
 + Trust in **God's** power to change hearts
@@ -387,7 +402,7 @@ with all his saints.
 + **Thank** You for them: **precious** in Your sight
 + **Give** faith / **strengthen** faith in Your promises
   + well-**prepared** to face **trials** proclaim gospel
-+ Use us to **comfort** / enc: not succumb to **Satan's** schemes
++ Use to **comfort**/enc: not succumb **Satan's** schemes
 + When we see them **standing** firm in You:
   + truly **alive**, abound **joy**, **thanks** to You
 + May we remem **pray** fervently for them
