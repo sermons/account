@@ -1,6 +1,7 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> id="title" -->
 # Accountability with Hope
 ## 1 Thessalonians 3:6-13
+[Cassidy Kelley. Cleveland, US](https://unsplash.com/photos/p90szoOBYgk "caption")
 
 >>>
 + Think of s.o. whose **faith** in Chr 
@@ -81,7 +82,8 @@ to see you **face** to face
 + **check** up on their faith in Christ
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> class="outline" id="outline" -->
+## Accountability with Hope [(1Thes3)](# "ref")
 1. **Purpose**: to Strengthen Faith [(v1-5)](# "ref")
 1. **Product**: Joy + Thanksgiving [(v6-10)](# "ref")
 1. **Prayer**: for Love + Purity [(v11-13)](# "ref")
@@ -209,7 +211,11 @@ to **establish** and **exhort** you in your faith
 + So see how **suffering** can **strengthen** our faith
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> class="outline" -->
+## Accountability with Hope [(1Thes3)](# "ref")
+1. Purpose: to Strengthen Faith [(v1-5)](# "ref")
+1. **Product: Joy + Thanksgiving** [(v6-10)](# "ref")
+1. Prayer: for Love + Purity [(v11-13)](# "ref")
 
 >>>
 + Tim **visited** Thes to strengthen + encourage in faith
@@ -304,7 +310,11 @@ and **supply** what is **lacking** in your faith?
   + despite probing **attacks** of Satan
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> class="outline" -->
+## Accountability with Hope [(1Thes3)](# "ref")
+1. Purpose: to Strengthen Faith [(v1-5)](# "ref")
+1. Product: Joy + Thanksgiving [(v6-10)](# "ref")
+1. **Prayer: for Love + Purity** [(v11-13)](# "ref")
 
 >>>
 + Having **rcvd** encour report / good news,
@@ -393,7 +403,7 @@ with all his saints.
   + until day of His **return**
 
 ---
-(prayer)
+<!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> class="empty" -->
 
 >>>
 + Redeemer + Saviour: as each of us **pictures** 
