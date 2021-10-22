@@ -5,11 +5,14 @@
 >>>
 + Think of s.o. whose **faith** in Chr 
   + you **care** deeply about
-+ **Family**, smgp, friend, coworker, student
-+ **Averse** to gospel, open/quest, new believer, or growing
-+ Care for their **growth**: not just **wishful** thinking
-  + Share God's **love** + Word
-  + Follow-up, put faith into **action**
++ **Son**/daugh, mom/dad, sib/BIL,
+  + friend/smgp, student / coworker
++ Might be **averse** to gospel, open/quest, 
+  + new believer, or growing
++ Care for their **growth** in Chr:
+  + not just **wishful** thinking, but you've
++ Shared God's **love** + Word, and want to
+  + **Follow-up**: so they may put faith into **action**:
 
 ---
 <!-- .slide: data-background="white" -->
@@ -26,7 +29,7 @@
   + Addl layer of appl when on **receiving** end
 + Accountability doesn't have to be **antagonistic**
   + but suffused with **hope** in work of HS
-+ Turn to **Scrip**, behold **Lamb** of God
++ Turn to **Scrip**, together behold **Lamb** of God
 
 ---
 (prayer)
@@ -58,13 +61,13 @@
 + ch3: crux of 1Thes: **report** from Tim's visit
 + 2nd half: addr specific **questions** / issues
 + Ways might **respond** to such an encour. passage:
-+ 1. Paul **happy** with Thes: 
++ (1) Paul **happy** with Thes: 
   + yes, I love meeting w/**friends** / smgp
   + check, **done**, nothing to learn
-+ 2. not **realistic**: ppl I deal with
++ (2) not **realistic**: ppl I deal with
   + aren't as **receptive** as Thes
-+ 3. not **achievable**: 
-  + Paul was **holy**, I'm not: not **relatable**
++ (3) not **achievable**: 
+  + Paul was **holy**, I'm not: can't **relate**
 + in ch2, Paul said they had
 
 ---
@@ -81,16 +84,20 @@ to see you **face** to face
 
 ---
 ## outline
-1. Purpose: Strengthened Faith [v1-5]
+1. Purpose: to Strengthen Faith [v1-5]
 1. Product: Joy + Thanksgiving [v6-10]
-1. Prayer: Love + Purity [v11-13]
+1. Prayer: for Love + Purity [v11-13]
 
 >>>
-+ bc Thes had done sth **wrong**? No, rather
++ **Purpose** of sending Tim
++ **Product** / result of acct: bc stand firm
++ **Prayer** for future: **love** abound
++ **Why** send Tim? bc Thes did sth **wrong**? No, rather
 + Paul + Silas preached **gospel** in Thes + other cities
-  + so endured intense **persecution**
+  + and endured intense **persecution** bc of it
 + Knew this would **affect** Thes, new in the faith:
   + "Is **this** what following Christ entails?"
++ This is why:
 
 ---
 We sent Timothy ...<br>
@@ -103,17 +110,17 @@ that we are **destined** for this.
 [1 Thessalonians 3:2,3 (ESV)](# "ref")
 
 >>>
-+ **moved**: as dog's **tail** wags unconsciously
++ "**moved**": as dog's **tail** wags unconsciously
   + **swayed** emotionally by external circumstances
-+ As child watching **father** break down 
++ As child watching **father** (role model) break down 
   + under intense **sorrow** / pain:
 + "If even **he** suffers so, what **hope** do I have?"
 + **Suffering** is inherent to Chr life in this age:
-+ If proclaim **kingdom** God to world **rejects** auth
-  + if **pattern** life after Christ,
-+ We should not be **surprised** that we were
++ If proclaim **kingdom** God to world **rejects** His auth,
+  + if we **pattern** life after Christ,
++ We should not be **surprised** that we are
   + **laid** / placed into path of suff as Chr
-+ Those **watching** us: **trials**, tempt, failures
++ Those **watching** us observ **trials**, tempt, failures
 + So **compelled** to send Tim to them:
 
 ---
@@ -126,13 +133,14 @@ and our labor would be in **vain**.
 
 >>>
 + Not "**fear**", but "that not somehow": "lest somehow"
-+ Very **real** possib amidst suffering 
++ Very **real** possib: amidst suffering 
   + Satan tries to **probe** our defenses
   + to **poke holes** in shield of faith
 + Tempt to **give up** on following Chr, or
   + get **angry** / bitter, or
   + **compromise**: neglect God's **calling**
   + chase after **desires** of world
++ **We** are suscep, so are those we **care** for
 + This **danger** is what moved Paul to send Tim
 + A few things to **notice** about how Paul
   + reached out to Thes to strengthen their faith:
@@ -170,17 +178,18 @@ to **establish** and **exhort** you in your faith
 [1 Thessalonians 3:2 (ESV)](# "ref")
 
 >>>
-+ Establish: **strengthen**, make firm
++ "Establish": **strengthen**, make firm
   + **weak**: not more **discip**, work **ethic**
   + but **equip**, supply, give strength
 + e.g., teaching **SS**: frustrated at **immaturity**
-+ Exhort (enc): as **hubby**/dad: bring **comfort**
+  + still **growing**: your **task** to teach, show
++ "Exhort" (enc): as **hubby**/dad: bring **comfort**
 + How I **respond** to suffering/stress
   + affects how **they** react: whether **shaken** or not
-+ Would I put on **brave** face, hide?
++ Do I put on **brave** face, hide pain?
   + Coldly / stoicly demand they **tough** it out
 + Or use **blame** / guilt: "all bc of you!"
-  + Revealing own **irresponsib** / instability
+  + Revealing own **irresponsib** / insecurity
 + Use strength not to coerce, but to **comfort**
 
 ---
@@ -196,8 +205,8 @@ to **establish** and **exhort** you in your faith
 + **Anticipate** opposition as walk in Chr steps
 + **Initiate** support to help stand **firm**
 + Radiate **comfort**, not coercion
-  + **enc**, call alongside
-+ So they see how **suff** can **strengthen** our faith
+  + **encourage**: call alongside, walk narrow path together
++ So see how **suffering** can **strengthen** our faith
 
 ---
 ## outline
@@ -206,7 +215,8 @@ to **establish** and **exhort** you in your faith
 + Tim **visited** Thes to strengthen + encourage in faith
 + **Returned** to Paul in Athens
 + **Reported** result / product from the visit:
-+ What happens when acct goes **right**: proclaimed
++ What happens when accountability goes **right**: 
+  + proclaimed
 
 ---
 the **good news** of your **faith** and **love** <br>
