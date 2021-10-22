@@ -83,7 +83,7 @@ to see you **face** to face
 
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> class="outline" id="outline" -->
-## Accountability with Hope [(1Thes3)](# "ref")
+## Accountability [(1Thes3)](# "ref")
 1. **Purpose**: to Strengthen Faith [(v1-5)](# "ref")
 1. **Product**: Joy + Thanksgiving [(v6-10)](# "ref")
 1. **Prayer**: for Love + Purity [(v11-13)](# "ref")
@@ -212,7 +212,7 @@ to **establish** and **exhort** you in your faith
 
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> class="outline" -->
-## Accountability with Hope [(1Thes3)](# "ref")
+## Accountability [(1Thes3)](# "ref")
 1. Purpose: to Strengthen Faith [(v1-5)](# "ref")
 1. **Product: Joy + Thanksgiving** [(v6-10)](# "ref")
 1. Prayer: for Love + Purity [(v11-13)](# "ref")
@@ -311,7 +311,7 @@ and **supply** what is **lacking** in your faith?
 
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> class="outline" -->
-## Accountability with Hope [(1Thes3)](# "ref")
+## Accountability [(1Thes3)](# "ref")
 1. Purpose: to Strengthen Faith [(v1-5)](# "ref")
 1. Product: Joy + Thanksgiving [(v6-10)](# "ref")
 1. **Prayer: for Love + Purity** [(v11-13)](# "ref")
