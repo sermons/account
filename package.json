@@ -24,19 +24,13 @@
         "venue": "Tri-City Chinese Christian Church",
         "city": "Port Moody",
         "date": "2021-10-24",
-        "duration": 0
+        "duration": 29
       },
       {
         "venue": "Pacific Grace MB Church",
         "city": "South Vancouver",
         "date": "2021-10-24",
-        "duration": 0
-      },
-      {
-        "venue": "Bethel Chinese Christian MB Church",
-        "city": "Vancouver",
-        "date": "2021-10-17",
-        "duration": 0
+        "duration": 29
       }
     ],
     "slides": [
