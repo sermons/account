@@ -1,10 +1,11 @@
 {
   "name": "@sermons/account",
   "repository": "sermons/account",
-  "description": "1Thes3:6-13 Accountability with Hope",
+  "description": "1Thes3:6-13 Accountability with Hope 充滿希望的負責",
   "keywords": [
     "sermon",
-    "1thessalonians"
+    "1thessalonians",
+    "zh"
   ],
   "version": "2.5.10",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
@@ -20,6 +21,12 @@
       "email": "travis@seanho.com"
     },
     "history": [
+      {
+        "venue": "Zion Christian Reformed Church",
+        "city": "Abbotsford",
+        "date": "2022-03-13",
+        "duration": 0
+      },
       {
         "venue": "Tri-City Chinese Christian Church",
         "city": "Port Moody",

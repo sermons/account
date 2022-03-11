@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> id="title" -->
-# Accountability with Hope
-## 1 Thessalonians 3:6-13
+# Accountability with Hope <br> 充滿希望的負責
+## 1 Thessalonians <br> 帖撒羅尼迦前書 3:6-13
 [Cassidy Kelley. Cleveland, US](https://unsplash.com/photos/p90szoOBYgk "caption")
 
 >>>
@@ -31,11 +31,10 @@
 + Accountability doesn't have to be **antagonistic**
   + but suffused with **hope** in work of HS
 + Turn to **Scrip**, together behold **Lamb** of God
++ Prayer:
 
----
-(prayer)
+______
 
->>>
 + **Formed** us, **called** to be your sons+daughters
   + and to walk **worthily** of that calling,
 + Gave us many **promises** as we walk in obedience
@@ -45,16 +44,18 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
-# Growing Together, While Apart
+## Growing Together, While Apart <br> 當分開時一起成長
 <!-- .element: class="r-fit-text" -->
 
-| *1* | Impact of **Faith** | 
-|---|---|
-| *2a,b* | Toil of **Love** |
-| *3* | **Accountability with Hope** |
-| *4* | Growing in Purity + **Love** |
-| *5a* | **Hope** of Salvation |
-| *5b* | Acts of **Faith** |
+| *1* | Impact of **Faith** | 信心的影響 |
+|---|---|---|
+| *2a,b* | Toil of **Love** | 愛心的勞苦 |
+| *3* | Acc. with **Hope** | 充滿希望的負責 |
+| *4* | Grow in Purity + **Love** | 在清潔和愛中成長 |
+| *5a* | **Hope** of Salvation | 救贖的盼望 |
+| *5b* | Acts of **Faith** | 信心的行為 |
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + Theme of 1Thes: encouragment in **FHL**
@@ -84,9 +85,15 @@ to see you **face** to face
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> class="outline" id="outline" -->
 ## Accountability [(1Thes3)](# "ref")
-1. **Purpose**: to Strengthen Faith [(v1-5)](# "ref")
-1. **Product**: Joy + Thanksgiving [(v6-10)](# "ref")
-1. **Prayer**: for Love + Purity [(v11-13)](# "ref")
+
+1. **Purpose**: to Strengthen Faith <br>
+  *目的*: 增強信心 [(v1-5)](# "ref")
+1. **Product**: Joy + Thanksgiving <br>
+  *結果*: 喜樂與感謝 [(v6-10)](# "ref")
+1. **Prayer**: for Love + Purity <br>
+  *禱告*: 為了愛跟聖潔 [(v11-13)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + **Purpose** of sending Tim
@@ -213,9 +220,15 @@ to **establish** and **exhort** you in your faith
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> class="outline" -->
 ## Accountability [(1Thes3)](# "ref")
-1. Purpose: to Strengthen Faith [(v1-5)](# "ref")
-1. **Product: Joy + Thanksgiving** [(v6-10)](# "ref")
-1. Prayer: for Love + Purity [(v11-13)](# "ref")
+
+1. Purpose: to Strengthen Faith <br>
+  目的: 增強信心 [(v1-5)](# "ref")
+1. **Product: Joy + Thanksgiving** <br>
+  *結果: 喜樂與感謝* [(v6-10)](# "ref")
+1. Prayer: for Love + Purity <br>
+  禱告: 為了愛跟聖潔 [(v11-13)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + Tim **visited** Thes to strengthen + encourage in faith
@@ -312,9 +325,15 @@ and **supply** what is **lacking** in your faith?
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> class="outline" -->
 ## Accountability [(1Thes3)](# "ref")
-1. Purpose: to Strengthen Faith [(v1-5)](# "ref")
-1. Product: Joy + Thanksgiving [(v6-10)](# "ref")
-1. **Prayer: for Love + Purity** [(v11-13)](# "ref")
+
+1. Purpose: to Strengthen Faith <br>
+  目的: 增強信心 [(v1-5)](# "ref")
+1. Product: Joy + Thanksgiving <br>
+  結果: 喜樂與感謝 [(v6-10)](# "ref")
+1. **Prayer: for Love + Purity** <br>
+  *禱告: 為了愛跟聖潔* [(v11-13)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + Having **rcvd** encour report / good news,
