@@ -43,9 +43,8 @@ ______
   + to see others **blossom** in faith in You
 
 ---
-<!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> -->
 ## Growing Together, While Apart <br> 當分開時一起成長
-<!-- .element: class="r-fit-text" -->
 
 | *1* | Impact of **Faith** | 信心的影響 |
 |---|---|---|
@@ -86,12 +85,9 @@ to see you **face** to face
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> class="outline" id="outline" -->
 ## Accountability [(1Thes3)](# "ref")
 
-1. **Purpose**: to Strengthen Faith <br>
-  *目的*: 增強信心 [(v1-5)](# "ref")
-1. **Product**: Joy + Thanksgiving <br>
-  *結果*: 喜樂與感謝 [(v6-10)](# "ref")
-1. **Prayer**: for Love + Purity <br>
-  *禱告*: 為了愛跟聖潔 [(v11-13)](# "ref")
+1. **Purpose**: to Strengthen Faith <br> *目的*: 增強信心 [(v1-5)](# "ref")
+1. **Product**: Joy + Thanksgiving <br> *結果*: 喜樂與感謝 [(v6-10)](# "ref")
+1. **Prayer**: for Love + Purity <br> *禱告*: 為了愛跟聖潔 [(v11-13)](# "ref")
 
 <!-- .element: class="r-fit-text" -->
 
@@ -221,12 +217,9 @@ to **establish** and **exhort** you in your faith
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> class="outline" -->
 ## Accountability [(1Thes3)](# "ref")
 
-1. Purpose: to Strengthen Faith <br>
-  目的: 增強信心 [(v1-5)](# "ref")
-1. **Product: Joy + Thanksgiving** <br>
-  *結果: 喜樂與感謝* [(v6-10)](# "ref")
-1. Prayer: for Love + Purity <br>
-  禱告: 為了愛跟聖潔 [(v11-13)](# "ref")
+1. Purpose: to Strengthen Faith <br> 目的: 增強信心 [(v1-5)](# "ref")
+1. **Product: Joy + Thanksgiving** <br> *結果: 喜樂與感謝* [(v6-10)](# "ref")
+1. Prayer: for Love + Purity <br> 禱告: 為了愛跟聖潔 [(v11-13)](# "ref")
 
 <!-- .element: class="r-fit-text" -->
 
@@ -326,12 +319,9 @@ and **supply** what is **lacking** in your faith?
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> class="outline" -->
 ## Accountability [(1Thes3)](# "ref")
 
-1. Purpose: to Strengthen Faith <br>
-  目的: 增強信心 [(v1-5)](# "ref")
-1. Product: Joy + Thanksgiving <br>
-  結果: 喜樂與感謝 [(v6-10)](# "ref")
-1. **Prayer: for Love + Purity** <br>
-  *禱告: 為了愛跟聖潔* [(v11-13)](# "ref")
+1. Purpose: to Strengthen Faith <br> 目的: 增強信心 [(v1-5)](# "ref")
+1. Product: Joy + Thanksgiving <br> 結果: 喜樂與感謝 [(v6-10)](# "ref")
+1. **Prayer: for Love + Purity** <br> *禱告: 為了愛跟聖潔* [(v11-13)](# "ref")
 
 <!-- .element: class="r-fit-text" -->
 
