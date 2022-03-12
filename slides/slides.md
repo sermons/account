@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-iuqmGmst5Po-silh_hiking.jpg") %> id="title" -->
 # Accountability with Hope <br> 充滿希望的負責
 ## 1 Thessalonians <br> 帖撒羅尼迦前書 3:6-13
 [Cassidy Kelley. Cleveland, US](https://unsplash.com/photos/p90szoOBYgk "caption")
@@ -85,7 +85,7 @@ we endeavored the more **eagerly** and with <br>
 + **check** up on their faith in Christ
 
 ---
-<!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> class="outline" id="outline" -->
+<!-- .slide: <%= bg("unsplash-iuqmGmst5Po-silh_hiking.jpg") %> class="outline" id="outline" -->
 ## Accountability [(1Thes3)](# "ref")
 
 1. **Purpose**: to Strengthen Faith <br> *目的*: 增強信心 [(v1-5)](# "ref")
@@ -158,9 +158,10 @@ and our labor would be in **vain**.
   + reached out to Thes to strengthen their faith:
 
 ---
-1. **Anticipate** Challenges
-1. **Initiate** Support
-1. Radiate **Comfort**, not Coercion
+## 1. Strengthen Faith 增強信心 [(v1-5)](# "ref")
++ A. **Anticipate** Challenges
++ B. **Initiate** Support
++ C. Radiate **Comfort**, not Coercion
 
 >>>
 + Paul had prior **experience** suffering for Chr
@@ -230,14 +231,12 @@ to **establish** and **exhort** you in your faith
 + So see how **suffering** can **strengthen** our faith
 
 ---
-<!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-iuqmGmst5Po-silh_hiking.jpg") %> class="outline" -->
 ## Accountability [(1Thes3)](# "ref")
 
 1. Purpose: to Strengthen Faith <br> 目的: 增強信心 [(v1-5)](# "ref")
 1. **Product: Joy + Thanksgiving** <br> *結果: 喜樂與感謝* [(v6-10)](# "ref")
 1. Prayer: for Love + Purity <br> 禱告: 為了愛跟聖潔 [(v11-13)](# "ref")
-
-<!-- .element: class="r-fit-text" -->
 
 >>>
 + Tim **visited** Thes to strengthen + encourage in faith
@@ -346,14 +345,12 @@ and **supply** what is **lacking** in your faith?
   + despite probing **attacks** of Satan
 
 ---
-<!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-iuqmGmst5Po-silh_hiking.jpg") %> class="outline" -->
 ## Accountability [(1Thes3)](# "ref")
 
 1. Purpose: to Strengthen Faith <br> 目的: 增強信心 [(v1-5)](# "ref")
 1. Product: Joy + Thanksgiving <br> 結果: 喜樂與感謝 [(v6-10)](# "ref")
 1. **Prayer: for Love + Purity** <br> *禱告: 為了愛跟聖潔* [(v11-13)](# "ref")
-
-<!-- .element: class="r-fit-text" -->
 
 >>>
 + Having **rcvd** encour report / good news,
@@ -397,9 +394,10 @@ one another and for all, as we do for you,
   + that they may abound in **love**:
 
 ---
-1. **Experience** God's Love
-1. **Exercise** Love to God
-1. **Exhibit** God's Love Toward Others
+## 3. Prayer 禱告 [(v11-13)](# "ref")
++ A. **Experience** God's Love
++ B. **Exercise** Love to God
++ C. **Exhibit** God's Love Toward Others
 
 >>>
 + **Experience** God's love (defines love)
@@ -452,7 +450,7 @@ with all his saints.
   + until day of His **return**
 
 ---
-<!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-iuqmGmst5Po-silh_hiking.jpg") %> class="empty" -->
 
 >>>
 + Redeemer + Saviour: as each of us **pictures** 
