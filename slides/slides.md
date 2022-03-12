@@ -17,7 +17,9 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How can we <br> help others <br> to **grow** in Christ?
+# How can we help others <br> to **grow** in Christ? 
+<!-- .element: class="r-fit-text" -->
+# 我們如何幫助別人 <br> 在基督裡成長?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -51,7 +53,7 @@ ______
 |---|---|---|
 | *2a,b* | Toil of **Love** | 愛心的勞苦 |
 | *3* | Acc. with **Hope** | 充滿希望的負責 |
-| *4* | Grow in Purity + **Love** | 在清潔和愛中成長 |
+| *4* | Grow in Purity + **Love** | 在聖潔和愛中成長 |
 | *5a* | **Hope** of Salvation | 救贖的盼望 |
 | *5b* | Acts of **Faith** | 信心的行為 |
 
@@ -86,7 +88,7 @@ we endeavored the more **eagerly** and with <br>
 
 ---
 <!-- .slide: <%= bg("unsplash-iuqmGmst5Po-silh_hiking.jpg") %> class="outline" id="outline" -->
-## Accountability [(1Thes3)](# "ref")
+## Accountability 負責 [(1Thes3)](# "ref")
 
 1. **Purpose**: to Strengthen Faith <br> *目的*: 增強信心 [(v1-5)](# "ref")
 1. **Product**: Joy + Thanksgiving <br> *結果*: 喜樂與感謝 [(v6-10)](# "ref")
@@ -159,9 +161,14 @@ and our labor would be in **vain**.
 
 ---
 ## 1. Strengthen Faith 增強信心 [(v1-5)](# "ref")
-+ A. **Anticipate** Challenges
-+ B. **Initiate** Support
-+ C. Radiate **Comfort**, not Coercion
+<!-- .element: class="r-fit-text" -->
+
++ A. **Anticipate** Challenges 預料挑戰
++ B. **Initiate** Support 起頭支持
++ C. Radiate **Comfort**, not Coercion <br>
+  安慰，不是脅迫
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + Paul had prior **experience** suffering for Chr
@@ -215,7 +222,9 @@ to **establish** and **exhort** you in your faith
 
 ---
 <!-- .slide: data-background="white" -->
-# What is my **aim** <br> when holding <br> others accountable?
+# What is my **aim** when <br> holding others accountable?
+<!-- .element: class="r-fit-text" -->
+# 當我讓別人負責任時， <br> 我的目標是什麼？
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -330,6 +339,8 @@ and **supply** what is **lacking** in your faith?
 <!-- .slide: data-background="white" -->
 # What makes me <br> feel truly **alive**?
 <!-- .element: class="r-fit-text" -->
+# 什麼可讓我感覺真正活著?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + **Motorcycle**! **Sunrise** after 5am run! 
@@ -395,9 +406,14 @@ one another and for all, as we do for you,
 
 ---
 ## 3. Prayer 禱告 [(v11-13)](# "ref")
-+ A. **Experience** God's Love
-+ B. **Exercise** Love to God
-+ C. **Exhibit** God's Love Toward Others
+
++ A. **Experience** God's Love 經歷 神的愛
++ B. **Exercise** Love to God <br>
+  鍛鍊對 神的愛
++ C. **Exhibit** God's Love Toward Others <br>
+  對別人展現神的愛
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + **Experience** God's love (defines love)
@@ -435,6 +451,8 @@ with all his saints.
 ---
 <!-- .slide: data-background="white" -->
 # How do I **pray** <br> for others?
+<!-- .element: class="r-fit-text" -->
+# 我如何為別人禱告?
 <!-- .element: class="r-fit-text" -->
 
 >>>
