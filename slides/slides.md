@@ -185,6 +185,7 @@ and our labor would be in **vain**.
 + **told** Thes in advance:
 
 ---
+<!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
 For when we were with you, <br>
 we kept telling you **beforehand** <br>
 that we were to **suffer** affliction, <br>
