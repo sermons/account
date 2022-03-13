@@ -4,7 +4,7 @@
 
 [![Build status](https://github.com/sermons/reveal-skel/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/reveal-skel/actions/workflows/build.yml)
 ![Dependency check](https://img.shields.io/librariesio/github/sermons/reveal-skel)
-
+<br>
 [(open master view)](http://reveal-skel.seanho.com/?s=45ba034647cea150 "ref")
 
 [Ryan Hutton](https://unsplash.com/photos/Jztmx9yqjBw "caption")
@@ -29,7 +29,7 @@ Six underscores create a horizontal rule in the notes
 1. Point *Two* 
 1. Point *Three* 
 
-\` hat(f)(omega) = int\_-oo^oo f(x)e^(-2pi x omega) dx \`
+`$$ \hat{f}(\omega) = \int_{-\infty}^\infty f(x)e^{-2\pi x \omega} \,dx $$`
 
 ******
 <!-- six stars create a vertical slide -->

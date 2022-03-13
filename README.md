@@ -2,8 +2,7 @@
 ## 1 Thessalonians 3:6-13
 
 [![Build status](https://github.com/sermons/account/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/account/actions/workflows/build.yml)
-[![David](https://img.shields.io/david/sermons/account)](https://david-dm.org/sermons/account)
-[![David (dev)](https://img.shields.io/david/dev/sermons/account)](https://david-dm.org/sermons/account?type=dev)
+![Dependency check](https://img.shields.io/librariesio/github/sermons/reveal-skel)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
