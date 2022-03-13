@@ -1,5 +1,5 @@
 <!-- .slide: <%= bg("unsplash-iuqmGmst5Po-silh_hiking.jpg") %> id="title" -->
-# Accountability with Hope <br> 充滿希望的負責
+# Accountability <br> with Hope <br> 充滿希望的負責
 ## 1 Thessalonians <br> 帖撒羅尼迦前書 3:6-13
 [Cassidy Kelley. Cleveland, US](https://unsplash.com/photos/p90szoOBYgk "caption")
 
