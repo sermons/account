@@ -347,10 +347,9 @@ and **supply** what is **lacking** in your faith?
   + even though saw **trials** Paul endured
   + and that **they** would soon also endure
 + But still had **more** to learn: 
-+ **Lacking** in faith doesn't mean **failure**!
-  + Means more **joy** for Paul+Silas:
-+ To **equip** + strengthen to face trials
-  + **Encourage** in the faith
+  + **Lacking** in faith doesn't mean **failure**!
++ Means more **joy** for Paul+Silas:
+  + to **equip** + strengthen to face trials
 + **Worth** our efforts, prayers, tears, persever
 
 ---
@@ -369,8 +368,7 @@ and **supply** what is **lacking** in your faith?
   + Abundant **joy**, immeas **thanks** to God,
   + can truly **live**, when
 + See others **standing** firm in Lord,
-  + **growing** more + more in faith,
-  + **trusting** in God's promises
+  + **growing** in **trust** in God's promises
   + despite probing **attacks** of Satan
 
 ---
@@ -420,12 +418,13 @@ one another and for all, as we do for you,
 >>>
 + great in **quantity**, and even **more**: 
   + exceed / overflow: abound in **what**?
-+ What do we **pray** that loved ones excel in?
-+ Not how many Chr **books** read, 
-  + free **meals** given
++ When I **pray** for loved ones,
+  + what do I **desire** for them?
++ That they abound in how many Chr **books** read?
+  + free **meals** given to poor?
 + If **hw** done, **house** bought, **illness** healed
-  + even **happy** / trouble-free life
-+ What we **pray** is to abound in **love**:
+  + even **happy** / trouble-free life?
++ Paul+Silas' prayer is they abound in **love**:
 
 ---
 <!-- .slide: <%= bg("unsplash-YK4N8hd4OL8-paper_heart.jpg") %> -->
@@ -472,9 +471,8 @@ with all his saints.
 + Old **SS** kids now grown, many **far** from God
   + **infl.** beyond our control, own **decisions**
   + Fear my **son** may become same
-+ But **hope** in God, not men: **pray** may
-  + abound in **love**, acc how God loves us
-  + strengthened in **faith** in God's Word
++ But **hope** in God, not men: 
+  + Chr is the One who **sanctifies**
 
 ---
 <!-- .slide: data-background="white" -->
@@ -504,7 +502,7 @@ with all his saints.
   + given **resp** + **opp** to share Your Word + life
 + **Thank** You for them: **precious** in Your sight
 + **Give** faith to **strength** their faith in Your prom.
-  + well-**prepared** to face **trials** proclaim gospel
+  + well-**prep.** to face **trials** as procl. gospel
 + Use to **comfort**/enc: not succumb **Satan's** schemes
 + When we see them **standing** firm in You, we are
   + truly **alive**, abound **joy**, **thanks** to You
