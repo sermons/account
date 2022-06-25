@@ -1,7 +1,7 @@
 <!-- .slide: <%= bg("unsplash-iuqmGmst5Po-silh_hiking.jpg") %> id="title" -->
 # Accountability <br> with Hope <br> 充滿希望的負責
 ## 1 Thessalonians <br> 帖撒羅尼迦前書 3:6-13
-[Mittagberg, Germany. Tobias Mrzyk](https://unsplash.com/photos/iuqmGmst5Po) "caption")
+[Mittagberg, Germany. Tobias Mrzyk](https://unsplash.com/photos/iuqmGmst5Po "caption")
 
 >>>
 + Think of s.o. whose **faith** in Chr 
