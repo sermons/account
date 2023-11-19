@@ -43,7 +43,7 @@ ______
 
 ---
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> -->
-## Growing Together, While Apart <br> 當分開時一起成長
+## Growing Together, While Apart
 <!-- .element: class="r-fit-text" -->
 
 | *1* | Impact of **Faith** | 
