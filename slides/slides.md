@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-iuqmGmst5Po-silh_hiking.jpg") %> id="title" -->
-# Accountability <br> with Hope <br> 充滿希望的負責
-## 1 Thessalonians <br> 帖撒羅尼迦前書 3:6-13
+# Accountability <br> with Hope
+## 1 Thessalonians 3:6-13
 [Mittagberg, Germany. Tobias Mrzyk](https://unsplash.com/photos/iuqmGmst5Po "caption")
 
 >>>
@@ -17,8 +17,6 @@
 ---
 <!-- .slide: data-background="white" -->
 # How can we help others <br> to **grow** in Christ? 
-<!-- .element: class="r-fit-text" -->
-# 我們如何幫助別人 <br> 在基督裡成長?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -48,15 +46,14 @@ ______
 ## Growing Together, While Apart <br> 當分開時一起成長
 <!-- .element: class="r-fit-text" -->
 
-| *1* | Impact of **Faith** | 信心的影響 |
-|---|---|---|
-| *2a,b* | Toil of **Love** | 愛心的勞苦 |
-| *3* | Acc. with **Hope** | 充滿希望的負責 |
-| *4* | Grow in Purity + **Love** | 在聖潔和愛中成長 |
-| *5a* | **Hope** of Salvation | 救贖的盼望 |
-| *5b* | Acts of **Faith** | 信心的行為 |
-
-<!-- .element: class="r-fit-text" -->
+| *1* | Impact of **Faith** | 
+|---|---|
+| *2a* | Toil of **Love** |
+| *2b* | Orphaned but **Loved** |
+| *3* | Strength from **Hope** |
+| *4* | Growing in Purity + **Love** |
+| *5a* | **Hope** of Salvation |
+| *5b* | Acts of **Faith** |
 
 >>>
 + Chose 1Thes for **pandemic**: enc. in **FHL**
@@ -76,10 +73,7 @@ ______
 we endeavored the more **eagerly** and with <br>
 **great desire** to see you face to face
 
-我們極力的想法子，<br>
-很願意見你們的面。
-
-[1 Thessalonians 帖撒羅尼迦前書 2:17b (ESV/CUV)](# "ref")
+[1 Thessalonians 2:17b (ESV)](# "ref")
 [Kerkini Lake, Greece. Eimaiokanenas, CC-BY-SA-4.0](https://commons.wikimedia.org/wiki/File:Kerkini_Lake_Port.jpg "caption")
 
 >>>
@@ -89,11 +83,11 @@ we endeavored the more **eagerly** and with <br>
 
 ---
 <!-- .slide: <%= bg("unsplash-iuqmGmst5Po-silh_hiking.jpg") %> class="outline" id="outline" -->
-## Accountability 負責 [(1Thes3)](# "ref")
+## Accountability [(1Thes3)](# "ref")
 
-1. **Purpose**: to Strengthen Faith <br> *目的*: 增強信心 [(v1-5)](# "ref")
-1. **Product**: Joy + Thanksgiving <br> *結果*: 喜樂與感謝 [(v6-10)](# "ref")
-1. **Prayer**: for Love + Purity <br> *禱告*: 為了愛跟聖潔 [(v11-13)](# "ref")
+1. **Purpose**: to Strengthen Faith [(v1-5)](# "ref")
+1. **Product**: Joy + Thanksgiving [(v6-10)](# "ref")
+1. **Prayer**: for Love + Purity [(v11-13)](# "ref")
 
 >>>
 + **Purpose** of send Tim: strengthen
@@ -112,11 +106,7 @@ that no one be **moved** by these afflictions. <br>
 For you yourselves know <br>
 that we are **destined** for this. 
 
-免得有人被諸般患難搖動。<br>
-因為你們自己知道<br>
-我們受患難原是命定的。
-
-[1 Thessalonians 帖撒羅尼迦前書 3:3 (ESV/CUV)](# "ref")
+[1 Thessalonians 3:3 (ESV)](# "ref")
 [R. Dr. Manoel Miranda, Brazil. Samuel Martins](https://unsplash.com/photos/3U7HcqkIbb4 "caption")
 
 >>>
@@ -140,12 +130,7 @@ for **fear** that somehow <br>
 the **tempter** had tempted you <br>
 and our labor would be in **vain**.
 
-為此，我既不能再忍，就打發人去，<br>
-要曉得你們的信心如何，<br>
-恐怕那誘惑人的到底誘惑了你們，<br>
-叫我們的勞苦歸於徒然。
-
-[1 Thessalonians 帖撒羅尼迦前書 3:5 (ESV/CUV)](# "ref")
+[1 Thessalonians 3:5 (ESV)](# "ref")
 [Alex Jones](https://unsplash.com/photos/p0W9Q9gei4g "caption")
 
 >>>
@@ -163,13 +148,12 @@ and our labor would be in **vain**.
 
 ---
 <!-- .slide: <%= bg("unsplash-E0e1NmVclRo-mist_lake.jpg") %> -->
-## 1. Strengthen Faith 增強信心 [(v1-5)](# "ref")
+## 1. Strengthen Faith [(v1-5)](# "ref")
 <!-- .element: class="r-fit-text" -->
 
-+ A. **Anticipate** Challenges 預料挑戰
-+ B. **Initiate** Support 起頭支持
-+ C. Radiate **Comfort**, not Coercion <br>
-  安慰，不是脅迫
++ A. **Anticipate** Challenges 
++ B. **Initiate** Support 
++ C. Radiate **Comfort**, not Coercion 
 
 <!-- .element: class="r-fit-text" -->
 
@@ -187,11 +171,7 @@ we kept telling you **beforehand** <br>
 that we were to **suffer** affliction, <br>
 just as it has come to pass
 
-我們在你們那裡的時候，<br>
-預先告訴你們，我們必受患難，<br>
-以後果然應驗了，你們也知道。
-
-[1 Thessalonians 帖撒羅尼迦前書 3:4 (ESV/CUV)](# "ref")
+[1 Thessalonians 3:4 (ESV)](# "ref")
 
 >>>
 + not "I **told** you so", but mental **prep**:
@@ -207,10 +187,7 @@ just as it has come to pass
 We sent Timothy ...<br>
 to **establish** and **exhort** you in your faith
 
-打發 ... 提摩太前去，堅固你們，<br>
-並在你們所信的道上勸慰你們，
-
-[1 Thessalonians 帖撒羅尼迦前書 3:2 (ESV/CUV)](# "ref")
+[1 Thessalonians 3:2 (ESV)](# "ref")
 [Legenäsgatan, Sweden. Jon Flobrant](https://unsplash.com/photos/C2PvO6dOORY "caption")
 
 >>>
@@ -232,8 +209,6 @@ to **establish** and **exhort** you in your faith
 <!-- .slide: data-background="white" -->
 # What is my **aim** when <br> holding others accountable?
 <!-- .element: class="r-fit-text" -->
-# 當我讓別人負責任時， <br> 我的目標是什麼？
-<!-- .element: class="r-fit-text" -->
 
 >>>
 + Do I **exert** auth, demand **respect**, instill **fear**?
@@ -251,9 +226,9 @@ to **establish** and **exhort** you in your faith
 <!-- .slide: <%= bg("unsplash-iuqmGmst5Po-silh_hiking.jpg") %> class="outline" -->
 ## Accountability [(1Thes3)](# "ref")
 
-1. Purpose: to Strengthen Faith <br> 目的: 增強信心 [(v1-5)](# "ref")
-1. **Product: Joy + Thanksgiving** <br> *結果: 喜樂與感謝* [(v6-10)](# "ref")
-1. Prayer: for Love + Purity <br> 禱告: 為了愛跟聖潔 [(v11-13)](# "ref")
+1. Purpose: to Strengthen Faith [(v1-5)](# "ref")
+1. **Product: Joy + Thanksgiving** [(v6-10)](# "ref")
+1. Prayer: for Love + Purity [(v11-13)](# "ref")
 
 >>>
 + Tim **visited** Thes to 
@@ -269,10 +244,7 @@ the **good news** of your **faith** and **love** <br>
 and reported that you always <br>
 **remember** us kindly 
 
-將你們信心和愛心的好消息報給我們，<br>
-又說你們常常記念我們
-
-[1 Thessalonians 帖撒羅尼迦前書 3:6 (ESV/CUV)](# "ref")
+[1 Thessalonians 3:6 (ESV)](# "ref")
 [Dim Hou](https://unsplash.com/photos/bfFX9KZJvhQ "caption")
 
 >>>
@@ -287,17 +259,12 @@ and reported that you always <br>
 ---
 <!-- .slide: <%= bg("unsplash-78A265wPiO4-sunlit_valley.jpg") %> -->
 in all our **distress** and affliction we have <br>
-been **comforted** about you through your faith. <br>
-[8](# "ref")
+been **comforted** about you through your faith.
+
 For now we **live**, <br>
 if you are **standing** fast in the Lord. 
 
-我們在一切困苦患難之中，<br>
-因著你們的信心就得了安慰。<br>
-[8](# "ref")
-你們若靠主站立得穩，我們就活了。
-
-[1 Thessalonians 帖撒羅尼迦前書 3:7-8 (ESV/CUV)](# "ref")
+[1 Thessalonians 3:7-8 (ESV)](# "ref")
 [Ciucaș Peak, Romania. David Marcu](https://unsplash.com/photos/78A265wPiO4 "caption")
 
 >>>
@@ -313,11 +280,7 @@ For what **thanksgiving** can we return to God <br>
 for you, for all the **joy** that we feel <br>
 for your sake before our God,
 
-我們在神面前，因著你們甚是喜樂，<br>
-為這一切喜樂，<br>
-可用何等的感謝為你們報答神呢？
-
-[1 Thessalonians 帖撒羅尼迦前書 3:9 (ESV/CUV)](# "ref")
+[1 Thessalonians 3:9 (ESV)](# "ref")
 [Alex Woods](https://unsplash.com/photos/pZVi92S-ZMs "caption")
 
 >>>
@@ -335,11 +298,7 @@ as we **pray** most earnestly night and day <br>
 that we may **see** you face to face <br>
 and **supply** what is **lacking** in your faith?
 
-我們晝夜切切的祈求，<br>
-要見你們的面，<br>
-補滿你們信心的不足。
-
-[1 Thessalonians 帖撒羅尼迦前書 3:10 (ESV/CUV)](# "ref")
+[1 Thessalonians 3:10 (ESV)](# "ref")
 [Olivia Snow](https://unsplash.com/photos/CPPFtCHY6mo "caption")
 
 >>>
@@ -355,8 +314,6 @@ and **supply** what is **lacking** in your faith?
 ---
 <!-- .slide: data-background="white" -->
 # What makes me <br> feel truly **alive**?
-<!-- .element: class="r-fit-text" -->
-# 什麼可讓我感覺真正活著?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -375,9 +332,9 @@ and **supply** what is **lacking** in your faith?
 <!-- .slide: <%= bg("unsplash-iuqmGmst5Po-silh_hiking.jpg") %> class="outline" -->
 ## Accountability [(1Thes3)](# "ref")
 
-1. Purpose: to Strengthen Faith <br> 目的: 增強信心 [(v1-5)](# "ref")
-1. Product: Joy + Thanksgiving <br> 結果: 喜樂與感謝 [(v6-10)](# "ref")
-1. **Prayer: for Love + Purity** <br> *禱告: 為了愛跟聖潔* [(v11-13)](# "ref")
+1. Purpose: to Strengthen Faith [(v1-5)](# "ref")
+1. Product: Joy + Thanksgiving [(v6-10)](# "ref")
+1. **Prayer: for Love + Purity** [(v11-13)](# "ref")
 
 >>>
 + Having **rcvd** encour report / good news,
@@ -389,10 +346,7 @@ and **supply** what is **lacking** in your faith?
 Now may our God and Father himself, <br>
 and our Lord Jesus, **direct our way** to you,
 
-願神我們的父和我們的主耶穌<br>
-一直引領我們到你們那裡去。
-
-[1 Thessalonians 帖撒羅尼迦前書 3:11 (ESV/CUV)](# "ref")
+[1 Thessalonians 3:11 (ESV)](# "ref")
 [Chuckanut Mtn, WA.  Patrick Fore](https://unsplash.com/photos/74TufExdP3Y "caption")
 
 >>>
@@ -408,11 +362,7 @@ and may the Lord make you <br>
 **increase and abound** in love for <br>
 one another and for all, as we do for you, 
 
-又願主叫你們彼此相愛的心，<br>
-並愛眾人的心都能增長、<br>
-充足，如同我們愛你們一樣；
-
-[1 Thessalonians 帖撒羅尼迦前書 3:12 (ESV/CUV)](# "ref")
+[1 Thessalonians 3:12 (ESV)](# "ref")
 [Nancy, France. Rémi Walle](https://unsplash.com/photos/UOwvwZ9Dy6w "caption")
 
 >>>
@@ -428,13 +378,11 @@ one another and for all, as we do for you,
 
 ---
 <!-- .slide: <%= bg("unsplash-YK4N8hd4OL8-paper_heart.jpg") %> -->
-## 3. Prayer 禱告 [(v11-13)](# "ref")
+## 3. Prayer [(v11-13)](# "ref")
 
-+ A. **Experience** God's Love 經歷 神的愛
-+ B. **Exercise** Love to God <br>
-  鍛鍊對 神的愛
-+ C. **Exhibit** God's Love Toward Others <br>
-  對別人展現神的愛
++ A. **Experience** God's Love
++ B. **Exercise** Love to God
++ C. **Exhibit** God's Love Toward Others
 
 <!-- .element: class="r-fit-text" -->
 
@@ -454,11 +402,7 @@ in **holiness** before our God and Father, <br>
 at the **coming** of our Lord Jesus <br>
 with all his saints.
 
-好使你們當我們主耶穌同他眾聖徒來的時候，<br>
-在我們父神面前，心裡堅固，<br>
-成為聖潔，無可責備。
-
-[1 Thessalonians 帖撒羅尼迦前書 3:13 (ESV/CUV)](# "ref")
+[1 Thessalonians 3:13 (ESV)](# "ref")
 [Chris Lawton](https://unsplash.com/photos/6tfO1M8_gas "caption")
 
 >>>
@@ -477,8 +421,6 @@ with all his saints.
 ---
 <!-- .slide: data-background="white" -->
 # How do I **pray** <br> for others?
-<!-- .element: class="r-fit-text" -->
-# 我如何為別人禱告?
 <!-- .element: class="r-fit-text" -->
 
 >>>
